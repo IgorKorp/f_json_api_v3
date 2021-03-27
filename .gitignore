@@ -31,5 +31,6 @@
 /config/master.key
 
 .env
-
+.idea/
+.idea/f_json_api_v3.iml
 Gemfile.lock
